@@ -1,0 +1,132 @@
+@charset "UTF-8";
+body{
+	background-color: black;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+	height: 100%;
+}
+html{
+	height: 100%;
+}
+h1{
+	background-color: black;
+	color: #4dd2ff;
+	font-weight: bold;
+	text-align: center;
+	horizontal-align: middle;
+	postition:relative;
+	text-decoration: underline;
+	font-size: 3.5em;
+}
+h3{
+	background-color: #4dd2ff;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+	horizontal-align: middle;
+	postition:relative;
+	font-size: 1.7em;
+}
+.childFill{
+	height: 100%;
+}
+
+label {
+	color: black;
+}
+.container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.fabBlue{
+	background-color: #4dd2ff;
+	color: black;
+	text-align: center;
+	horizontal-align: middle;
+}
+.fabGrey
+{
+	background-color: #d9d9d9;
+}
+
+.button-black
+{
+	color: #4dd2ff;
+	background-color: black;
+}
+.button-fabBlue
+{
+	color: black;
+	background-color: #4dd2ff;
+	align-self: center;
+	
+}
+input {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	
+}
+
+.CENTER {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.noMargin
+{
+	margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+.littleMargin{
+	margin-bottom: 0%;
+}
+.noPadding{
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+.card
+{
+	background-color: #4dd2ff;
+	margin-top: 6%;
+    margin-bottom: 6%;
+    margin-right: 3%;
+    margin-left: 6%;
+}
+.cardContainer
+{
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    align-self: center;
+}
+.header
+{
+	background-color: #4dd2ff;
+	color: black;
+	text-align: center;
+	font-weight: bold;
+}
+
+.cardBody
+{
+	background-color:#d9d9d9;
+	color: black;
+}
+
+.linkBlack {
+	color: black;
+}
+

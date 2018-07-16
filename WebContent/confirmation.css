@@ -1,0 +1,86 @@
+@charset "UTF-8";
+body{
+	background-color: black;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+}
+
+.fabBlue{
+	background-color: #4dd2ff;
+	color: black;
+}
+
+.button-black
+{
+	color: #4dd2ff;
+	background-color: black;
+}
+.noMargin
+{
+	margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+.card
+{
+	background-color: #4dd2ff;
+	margin-top: 6%;
+    margin-bottom: 6%;
+    margin-right: 3%;
+    margin-left: 6%;
+}
+.cardContainer
+{
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    align-self: center;
+}
+.header
+{
+	background-color: #4dd2ff;
+	color: black;
+	text-align: center;
+	font-weight: bold;
+}
+
+.cardBody
+{
+	background-color:#d9d9d9;
+	color: black;
+}
+
+.jumbotron{
+	margin: 0 auto;
+	height: 50%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	background-color: #d9d9d9;
+	color: black;
+	padding-top: .1%;
+    padding-right: .1%;
+    padding-bottom: .1%;
+    padding-left: .1%;
+    align-self: center;
+}
+
+.jumbotext{
+	color: black;
+}
+
+h1
+{
+	color:black;
+	background-color: #4dd2ff;
+}
+
+p
+{
+	color: black;
+}

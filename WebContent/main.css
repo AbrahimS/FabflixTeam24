@@ -1,0 +1,111 @@
+@charset "UTF-8";
+body{
+	background-color: black;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+}
+h1{
+	background-color: black;
+	color: #4dd2ff;
+	font-weight: bold;
+	text-align: center;
+	horizontal-align: middle;
+	postition:relative;
+	text-decoration: underline;
+	font-size: 3.5em;
+}
+label {
+	color: black;
+}
+.container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.fabBlue{
+	background-color: #4dd2ff;
+	color: black;
+	text-align: center;
+	horizontal-align: middle;
+}
+.fabGrey
+{
+	background-color: #d9d9d9;
+}
+
+.button-black
+{
+	color: #4dd2ff;
+	background-color: black;
+}
+.button-fabBlue
+{
+	color: black;
+	background-color: #4dd2ff;
+	align-self: center;
+	
+}
+input {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	
+}
+
+.CENTER {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.noMargin
+{
+	margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+.card
+{
+	background-color: #4dd2ff;
+	margin-top: 6%;
+    margin-bottom: 6%;
+    margin-right: 3%;
+    margin-left: 6%;
+}
+.cardContainer
+{
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    align-self: center;
+}
+.header
+{
+	background-color: #4dd2ff;
+	color: black;
+	text-align: center;
+	font-weight: bold;
+}
+
+.cardBody
+{
+	background-color:#d9d9d9;
+	color: black;
+}
+
+a {
+	color: black;
+}
+
+.autocomplete-suggestions { border: 1px solid #999; background: #FFF; overflow: auto; }
+.autocomplete-suggestion { padding: 2px 5px; white-space: nowrap; overflow: hidden; color: black;}
+.autocomplete-selected { background: #F0F0F0; }
+.autocomplete-suggestions strong { font-weight: normal; color: #3399FF; }
+.autocomplete-group { padding: 2px 5px; }
+.autocomplete-group strong { display: block; border-bottom: 1px solid #000; }

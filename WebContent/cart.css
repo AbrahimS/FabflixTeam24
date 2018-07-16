@@ -1,0 +1,106 @@
+@charset "UTF-8";
+body{
+	background-color: black;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+}
+
+h1{
+	background-color: black;
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+	color: #4dd2ff;
+	font-weight: bold;
+}
+
+.fabBlue{
+	background-color: #4dd2ff;
+	color: black;
+}
+
+.button-black
+{
+	color: #4dd2ff;
+	background-color: black;
+}
+
+.checkoutButton
+{
+	margin-top: 3%;
+}
+.noMargin
+{
+	margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+.card
+{
+	background-color: #4dd2ff;
+	margin-top: 6%;
+    margin-bottom: 6%;
+    margin-right: 3%;
+    margin-left: 6%;
+}
+.cardContainer
+{
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    align-self: center;
+}
+.header
+{
+	background-color: #4dd2ff;
+	color: black;
+	text-align: center;
+	font-weight: bold;
+}
+
+.cardBody
+{
+	background-color:#d9d9d9;
+	color: black;
+}
+table {
+    border-collapse: collapse;
+    background-color: #999999;
+}
+
+table.center{
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+td {
+    text-align: center;
+    color: black;
+    padding: 8px;
+}
+
+.header {
+    background-color: #4dd2ff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+}
+
+tr:hover {
+	background-color: #d9d9d9;
+}
+
+.button-fabBlue
+{
+	color: black;
+	background-color: #4dd2ff;
+	align-self: center;
+	
+}
